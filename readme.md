@@ -7,3 +7,6 @@
 
 ## 建议重新开启一个项目管理JDK源码文件
 JDKStudyfor1.8
+
+## 添加SSHKey免密登录
+ssh-keygen
